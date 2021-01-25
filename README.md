@@ -3,6 +3,8 @@
 
 # Lecture recordings/Zoom
 
+   - https://drive.google.com/drive/folders/15QyHVXBOlQUc9euj35B2c8APkorUtjw1?usp=sharing
+
    - Zoom bridge 276-644-8345
 
 
