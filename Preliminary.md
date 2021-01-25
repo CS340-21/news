@@ -33,8 +33,8 @@ sure we will know to look at it sooner.
 
 ## Due Jan 26: Github Milestone, open an issue, and assign it to yurself
 
-The milestone should be for a repo cs340-21/test
-and named netid_git, with deadline for Mon 13
+The milestone should be for the repo cs340-21/test
+and named netid_git, with a deadline for February 1st.
 
 The issue should ask:
 
