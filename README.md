@@ -3,7 +3,7 @@
 
 # Class 3
   * [Class project](https://github.com/cs340-21/lectures/blob/master/project_intro.pdf)
-  * Present teasers
+  * Present teasers Please add your teaser here: https://github.com/CS340-21/teasers 
 
 # Class 2
   * Do the [second task](https://github.com/cs340-21/news/blob/master/Preliminary.md)
