@@ -1,7 +1,21 @@
+# Class 4
+  * Present teasers
+
+# Class 3
+  * [Class project](https://github.com/cs340-21/lectures/blob/master/project_intro.pdf)
+  * Present teasers Please add your teaser here: https://github.com/CS340-21/teasers 
+
+# Class 2
+  * Do the [second task](https://github.com/cs340-21/news/blob/master/Preliminary.md)
+  * Read the [lecture notes on git](https://github.com/cs340-21/lectures/blob/master/version_control.pdf)
+  * What is [software engineering?](https://github.com/cs340-21/lectures/blob/master/introduction.pdf)
+  
 # Class 1 (Jan 21)
   * Do the [first task](https://github.com/cs340-21/news/blob/master/Preliminary.md)
 
 # Lecture recordings/Zoom
+
+   - https://drive.google.com/drive/folders/15QyHVXBOlQUc9euj35B2c8APkorUtjw1?usp=sharing
 
    - Zoom bridge 276-644-8345
 
