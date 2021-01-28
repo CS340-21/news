@@ -23,8 +23,9 @@
 # Syllabus for "Software Engineering"
 
 * **Course:** [COSCS-340]
-* ** TuTh  04:30PM-05:45PM Online **
-* **Instructor:** Audris Mockus, [audris@utk.edu](mailto:audris@utk.edu) office hours MK613 - on request
+* ** TuTh  04:30PM-05:45PM Online Zoom bridge 276-644-8345 **
+* **Instructor:** Audris Mockus,
+  [audris@utk.edu](mailto:audris@utk.edu) office hours - on request
 * **TAs:** David Reid
 * **Need help?**
 
