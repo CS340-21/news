@@ -6,7 +6,7 @@
 |2/4| Form teams, pick a project topic|
 |2/11| Write and present preliminary project proposal|
 |2/18| Revise project proposal|
-|3/4 Design and implement a minimal viable system. Submit iteration 1 status report|
+|3/4 | Design and implement a minimal viable system. Submit iteration 1 status report|
 |3/18| Iteratively improve minimal viable system. Submit iteration 2 status report|
 |4/1 |Iteratively test and refine solution. Submit iteration 3 status report|
 |4/15| Complete project implementation. Write project report and present finished project|
