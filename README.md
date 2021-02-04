@@ -1,4 +1,7 @@
 
+# Class 6
+  - Software process lecture
+  
 # Project timeline 
 
 |date|activity|
