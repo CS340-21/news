@@ -1,5 +1,5 @@
 
-# Class 6
+# Class 5
   - Software process lecture
   
 # Project timeline 
