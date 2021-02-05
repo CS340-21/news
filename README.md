@@ -1,3 +1,8 @@
+# Class 6
+  - Please add the members of your team to the group, for example, for stockfantasymarket
+     @andrew go to [your team](https://github.com/orgs/CS340-21/teams/fantasystockmarket/members?add=true) and add the remaining team members
+  - Software process lecture
+
 
 # Class 5
   - Software process lecture
