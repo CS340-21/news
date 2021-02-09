@@ -151,7 +151,7 @@ These apply to real life, as well.
 * Project - 50%: one original project a group of 4
    students. The project will explore one or more of the themes covered
    in the course that students find particularly compelling.  The
-   group needs to submit a project proposal (2 pages IEEE format).  The proposal
+   group needs to submit a project proposal (2 pages markup format - details to follow).  The proposal
    should provide a brief motivation of the project, detailed
    discussion of the data that will be obtained or used in the project,
    along with a time-line of milestones, and expected outcome.
