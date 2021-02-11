@@ -2,11 +2,11 @@
   - Proposals due
 
 # Class 8
-  - Architecture
+  - [Architecture](https://github.com/cs340-21/lectures/blob/master/software_architecture.pdf)
 
 # Class 7
-  - Project Proposals
-  - Sprints
+  - Project Proposals Presented Today, Due Feb 18
+  - [Sprints](https://github.com/cs340-21/lectures/blob/master/sprints.md)
   - Rubric for preliminary task "Due Jan 26: Github Milestone, open an issue, and assign it to yourself. The milestone should be for the repo cs340-21/test and named netid_git, with a deadline for February 1st."
       - Is there a milestone
       - Is there an issue
@@ -19,7 +19,7 @@
 
 
 # Class 5
-  - Software process lecture
+  - [Software process lecture](https://github.com/cs340-21/lectures/blob/master/process.pdf))
   
 # Project timeline 
 
