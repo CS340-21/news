@@ -1,3 +1,11 @@
+# Class 7
+  - Sprints
+  - Architecture
+  - Rubric for preliminary task "Due Jan 26: Github Milestone, open an issue, and assign it to yourself. The milestone should be for the repo cs340-21/test and named netid_git, with a deadline for February 1st."
+      - Is there a milestone
+      - Is there an issue
+      - Is issue assigned to the milestone and to yourself? 
+  
 # Class 6
   - Please add the members of your team to the group, for example, for stockfantasymarket
      @andrew go to [your team](https://github.com/orgs/CS340-21/teams/fantasystockmarket/members?add=true) and add the remaining team members
