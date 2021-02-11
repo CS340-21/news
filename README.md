@@ -1,6 +1,12 @@
-# Class 7
-  - Sprints
+# Class 9
+  - Proposals due
+
+# Class 8
   - Architecture
+
+# Class 7
+  - Project Proposals
+  - Sprints
   - Rubric for preliminary task "Due Jan 26: Github Milestone, open an issue, and assign it to yourself. The milestone should be for the repo cs340-21/test and named netid_git, with a deadline for February 1st."
       - Is there a milestone
       - Is there an issue
