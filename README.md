@@ -1,5 +1,6 @@
 # Class 9
   - Proposals due
+  - Will be checking if all projects have first and second milestone, if the due dates are correct, if  for the second milestone there is an issue for teach team member
 
 # Class 8
   - [Architecture](https://github.com/cs340-21/lectures/blob/master/software_architecture.pdf)
