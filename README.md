@@ -1,7 +1,13 @@
-# Class 9
-  - Proposals due
-  - Will be checking if all projects have first and second milestone, if the due dates are correct, if  for the second milestone there is an issue for teach team member
+# Class 10
+   - Every project needs to have 
+      - Milestone "finalize proposal" due Feb 18
+      - Milestone "Sprint 1" due March 4
+      - At least one issue assigned to each one of the team members for Sprint 1
 
+# Class 9
+  - Remaining preliminary proposal presentations
+  - Final proposals due
+ 
 # Class 8
   - [Architecture](https://github.com/cs340-21/lectures/blob/master/software_architecture.pdf)
   - preliminary task: still no issue or no assignment for ObsidianSkin, amaryans, awillif, hackmasterheather, jacobleonard545,jonting, lyra3, patelria007, rathD25, sam-baumann
