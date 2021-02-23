@@ -1,3 +1,6 @@
+# Class 11
+  - Finish [Architecture](https://github.com/cs340-21/lectures/blob/master/software_architecture.pdf)
+
 # Class 10
    - Every project needs to have 
       - Milestone "finalize proposal" due Feb 18
@@ -10,7 +13,6 @@
  
 # Class 8
   - [Architecture](https://github.com/cs340-21/lectures/blob/master/software_architecture.pdf)
-  - preliminary task: still no issue or no assignment for ObsidianSkin, amaryans, awillif, hackmasterheather, jacobleonard545,jonting, lyra3, patelria007, rathD25, sam-baumann
 
 # Class 7
   - Project Proposals Presented Today, Due Feb 18
