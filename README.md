@@ -1,6 +1,9 @@
+# Class 12
+  - Google Compute Platform
+
 # Class 11
   - Finish [Architecture](https://github.com/cs340-21/lectures/blob/master/software_architecture.pdf)
-  - No issue for SP2: BuddySwan HollyBeth3 adam-mcdaniel amaryans derecksdev jmoor147 jonting kerble lyra3 nmize1 psherrill24 shwang6
+  - No issue for SP2: BuddySwan adam-mcdaniel amaryans jmoor147 kerble nmize1 psherrill24 shwang6
 
 # Class 10
    - Every project needs to have 
