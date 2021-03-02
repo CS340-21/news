@@ -1,3 +1,7 @@
+# Class 13
+  - Questions related to Google Compute Platform
+  - Starting validation and verification lecture
+
 # Class 12
   - Google Compute Platform
 
