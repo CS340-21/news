@@ -1,6 +1,9 @@
-# Class 13
-  - Questions related to Google Compute Platform
-  - Continue validation and verification lecture
+# Class March 11
+  - Finish validation and verification lecture
+  - Introduce Open Source Contribution
+
+# Class March 9
+  - No lecture today: work on final projects
 
 # Class 13
   - Questions related to Google Compute Platform
