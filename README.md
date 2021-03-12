@@ -1,6 +1,16 @@
+# Class March 16
+  - Finish validation and verification lecture
+  - Questions on OSS assignment
+
 # Class March 11
   - Finish validation and verification lecture
-  - Introduce Open Source Contribution
+  - Introduce Open Source Contribution https://github.com/CS340-21/oss/
+  - Please take a look at the status of GCP assignment at
+    https://github.com/CS340-21/students/blob/master/current.md. If
+    your md file is not listed: I am still waiting for your PR. If
+    there is mothing in the second column next to your md file, that
+    means the website is not accessible or produces no output.
+  
 
 # Class March 9
   - No lecture today: work on final projects
