@@ -8,7 +8,7 @@
   - Please take a look at the status of GCP assignment at
     https://github.com/CS340-21/students/blob/master/current.md. If
     your md file is not listed: I am still waiting for your PR. If
-    there is mothing in the second column next to your md file, that
+    there is nothing in the second column next to your md file, that
     means the website is not accessible or produces no output.
   
 
