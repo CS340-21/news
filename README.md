@@ -1,3 +1,9 @@
+# Class March 1
+
+# Class March 18
+  - Work on final projects
+  - Questions 
+
 # Class March 16
   - Finish validation and verification lecture
   - Questions on OSS assignment
