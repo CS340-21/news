@@ -1,4 +1,3 @@
-# Class March 1
 
 # Class March 18
   - Work on final projects
