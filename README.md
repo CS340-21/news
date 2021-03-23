@@ -1,3 +1,10 @@
+# Class March 25
+  - Work on final projects
+  - Questions 
+  
+# Class March 23
+  - Work on final projects
+  - Questions 
 
 # Class March 18
   - Work on final projects
