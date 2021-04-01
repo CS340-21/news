@@ -1,3 +1,6 @@
+# Class 27
+  - Final prject presentations: MegaJ
+  
 # Class Apr 13, 15, 20, 22, 27
   - Final project presentations 
     - [Please schedule here: note the name of the project and the preferred and backup dates](https://github.com/CS340-21/news/issues/3)
