@@ -1,5 +1,10 @@
-# Class Apr 13, 15, 20, 22, 27, 29
-  - Final project presentations: please schedule
+# Class Apr 13, 15, 20, 22, 27
+  - Final project presentations 
+    - [Please schedule here: note the name of the project and the preferred and backup dates](https://github.com/CS340-21/news/issues/3)
+    - We can only have a limited number of presentations during the class, first request gets priority
+    - Pick a date where the entire team could be present and have each team member take part
+    - Final reports are not due on the presentation date
+  
   
 # Class Apr 6-8
   - Work on final projects/OSS
