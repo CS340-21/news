@@ -1,5 +1,5 @@
 # Class 27
-  - Final prject presentations: MegaJ, VoiceRecognitionExt
+  - Final project presentations: MegaJ, VoiceRecognitionExt
   
 # Class Apr 13, 15, 20, 22, 27
   - Final project presentations 
