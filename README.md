@@ -1,3 +1,18 @@
+# Class Apr 13, 15, 20, 22, 27, 29
+  - Final project presentations: please schedule
+  
+# Class Apr 6-8
+  - Work on final projects/OSS
+  - Questions 
+
+# Class Apr 1
+  - Work on final projects/OSS
+  - Questions 
+
+# Class March 30
+  - Work on final projects
+  - Questions 
+
 # Class March 25
   - Work on final projects
   - Questions 
@@ -205,10 +220,9 @@ These apply to real life, as well.
    a small Python program or a documentation of an open source contribution.
    * Deploying to Cloud: (5% of total course grade)
    * OSS Sprint 1 and 2: (5% of total course grade)
-   * OSS Sprint 2 and 3: (5% of total course grade)
-   * OSS Sprint 4 and 5: (5% of total course grade)
-   * OSS Sprint 6: (5% of total course grade)
-
+   * OSS Sprint 3 and 4: (5% of total course grade)
+   * OSS Sprint 5 and 6: (5% of total course grade)
+   
 * Project - 50%: one original project a group of 4
    students. The project will explore one or more of the themes covered
    in the course that students find particularly compelling.  The
@@ -224,9 +238,8 @@ be found). This work accounts for a major portion of your course grade (50%), so
 teammates wisely. The course project consists of a series of presentations and deliverables that
 will be assigned throughout the semester. The grade breakdown is shown below:
 
-1. Project Proposal (10% of total course grade)
-3. Status Report (around Sprint 3) (15% of total course grade)
-4. Final Project (Report + Demo) (25% of total course grade)
+1. Project Proposal (15% of total course grade)
+2. Final Project (Report + Demo) (35% of total course grade)
 
 Each student in the group should have a role and be able to explain their individual contribution
 to the project. We will take into account student feedback on the project and on their teammates
