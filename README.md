@@ -1,5 +1,8 @@
-# Class 27
-  - Final project presentations: MegaJ, VoiceRecognitionExt
+# Class Apr 27
+  - Final project presentations: MegaJ, VoiceRecognitionExt, MathMajorsUnited
+
+# Class Apr 22
+  - Final project presentations: Tagger, FantasyStockMarket
   
 # Class Apr 13, 15, 20, 22, 27
   - Final project presentations 
