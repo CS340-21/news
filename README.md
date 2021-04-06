@@ -1,8 +1,11 @@
 # Class Apr 27
-  - Final project presentations: MegaJ, VoiceRecognitionExt, MathMajorsUnited
+  - Final project presentations: MegaJ, VoiceRecognitionExt, MathMajorsUnited, Book Recommendations, MergeSortMusic
 
 # Class Apr 22
-  - Final project presentations: Tagger, FantasyStockMarket
+  - Final project presentations: Tagger, FantasyStockMarket, WebSecurity, PaperintheWind, Fitness app
+
+# Class Apr 20
+  - TeamGME, EasyRec, GameGUI
   
 # Class Apr 13, 15, 20, 22, 27
   - Final project presentations 
