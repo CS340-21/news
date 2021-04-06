@@ -1,13 +1,13 @@
 # Class Apr 27
-  - Final project presentations: MegaJ, VoiceRecognitionExt, MathMajorsUnited, Book Recommendations, MergeSortMusic
+  - MegaJ, VoiceRecognitionExt, MathMajorsUnited, Book Recommendations, MergeSortMusic
 
 # Class Apr 22
-  - Final project presentations: Tagger, FantasyStockMarket, WebSecurity, PaperintheWind, Fitness app
+  - Tagger, FantasyStockMarket, WebSecurity, PaperintheWind, Fitness app
 
 # Class Apr 20
-  - TeamGME, EasyRec, GameGUI
+  - TeamGME, EasyRec, GameGUI, SentimentAnalysis
   
-# Class Apr 13, 15, 20, 22, 27
+# Class Apr 20, 22, 27
   - Final project presentations 
     - [Please schedule here: note the name of the project and the preferred and backup dates](https://github.com/CS340-21/news/issues/3)
     - We can only have a limited number of presentations during the class, first request gets priority
@@ -15,7 +15,7 @@
     - Final reports are not due on the presentation date
   
   
-# Class Apr 6-8
+# Class Apr 6-15
   - Work on final projects/OSS
   - Questions 
 
