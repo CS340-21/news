@@ -1,11 +1,16 @@
+# Date of when the final project report is due
+  - April 30
+  - [Final report content/rubric](https://github.com/CS340-21/lectures/blob/master/project_final_report.pdf)
+
 # Class Apr 27
   - MegaJ, VoiceRecognitionExt, MathMajorsUnited, Book Recommendations, MergeSortMusic
+  - After class: EasyRec
 
 # Class Apr 22
   - Tagger, FantasyStockMarket, WebSecurity, PaperintheWind, Fitness app
 
 # Class Apr 20
-  - TeamGME, EasyRec, GameGUI, SentimentAnalysis
+  - TeamGME,  GameGUI, SentimentAnalysis
   
 # Class Apr 20, 22, 27
   - Final project presentations 
