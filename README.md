@@ -1,6 +1,13 @@
-# Date of when the final project report is due
+ # [Please provide feedback](https://utk.campuslabs.com/eval-home/)
+ 
+ # Date of when the final project report is due
   - April 30
   - [Final report content/rubric](https://github.com/CS340-21/lectures/blob/master/project_final_report.pdf)
+  - Three key things to have for the final presentation 
+     - Demo (working or not)
+     - Time for each project participant to speek (prepare a subset of slides)
+     - Reflection (what worked what did not)
+     - Also what you can include from the remaining items in the final report
 
 # Class Apr 27
   - MegaJ, VoiceRecognitionExt, MathMajorsUnited, Book Recommendations, MergeSortMusic
