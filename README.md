@@ -14,7 +14,7 @@
   - After class: EasyRec
 
 # Class Apr 22
-  - Tagger, FantasyStockMarket, WebSecurity, PaperintheWind, Fitness app
+  - Tagger, FantasyStockMarket, WebSecurity, PaperintheWind, Fitness app, ResumeGenerator
 
 # Class Apr 20
   - TeamGME,  GameGUI, SentimentAnalysis
